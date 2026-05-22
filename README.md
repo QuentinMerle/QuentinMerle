@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Quentin Merle 👋
 
-<!--
-**QuentinMerle/QuentinMerle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Engineer & Senior Web Developer**
 
-Here are some ideas to get you started:
+I bridge the gap between modern Web Development and Artificial Intelligence. With 15 years of experience in the web ecosystem (React, fullstack JS), I believe AI doesn't replace software engineering—it extends it. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main focus is on **Local & Edge AI (LLMs & SLMs)**. I build pragmatic, sovereign, and privacy-first architectures that run directly on your hardware or in the browser, without sending data to third-party clouds.
+
+> *"AI isn't magic. It's a tool we tame with rigor, measure for its limits, and constrain with good code."*
+
+---
+
+### 🚀 What I'm up to
+
+- 🏢 **Founder @ [Vibrisse Studio](https://vibrisse-studio.dev/)**: A hybrid Web & AI agency building sovereign, privacy-first solutions.
+- 💻 **Working on [Vibrisse Agent](https://agent.vibrisse-studio.dev/)**: A 100% local, desktop AI agent built with Tauri, Ollama, and LangGraph to regain absolute control over the dev environment.
+- ✍️ **Writing**: Sharing honest, code-backed technical feedback (REX) about Local AI, RAG, and Web architectures on [Dev.to](https://dev.to/quentin_merle).
+
+---
+
+### 🛠️ Tech Stack & Focus Areas
+
+- **AI Engineering**: Ollama, WebLLM, LangGraph, SLMs (Mistral, Gemma, Llama, Phi), RAG, Model Context Protocol (MCP), Tool Use
+- **Web & Edge**: React, TypeScript, Tauri, WebGPU, `window.ai`
+- **Core Concepts**: Edge AI, Local RAG, Generative UI, Digital Sovereignty, Deterministic Guardrails
+
+---
+
+### 🌟 Featured Experiments & Projects
+
+- 🧠 **[Vibrisse Agent](https://github.com/QuentinMerle/vibrisse-agent)**: Sovereign local agent featuring triple-layer RAG, LangGraph orchestration, and an Obsidian Glass UI. *(Discover it on [agent.vibrisse-studio.dev](https://agent.vibrisse-studio.dev/))*
+- 🎲 **[GemMaster](https://github.com/QuentinMerle/gemmaster)**: Immersive narrative RPG engine powered by Gemma 4, featuring multimodal vision and dynamic Ambilight.
+- ⚡ **[webllm-vs-windowai](https://github.com/QuentinMerle/webllm-vs-windowai)**: A proof-of-concept exploring Edge AI in the browser for e-commerce.
+- 🎙️ **[web-speech-selector](https://github.com/QuentinMerle/web-speech-selector)**: A practical tool to explore and calibrate the Web Speech API across browsers.
+
+---
+
+### 📝 Technical Writing & REX
+
+I regularly write deep-dives and honest feedback about the intersection of Web Dev and AI. Instead of hype, I focus on real-world engineering constraints. Topics I cover include:
+
+- **Hardware & Browser AI**: Quantization, VRAM constraints, WebGPU, and running models in the browser.
+- **Sovereignty & Privacy**: Why Local AI matters for data protection (GDPR) and building robust, offline-first architectures.
+- **Architecture & Tooling**: Moving beyond simple chatbots to create local agents with Tool Use (MCP), custom RAG pipelines, and generative UIs.
+- **Engineering Challenges**: The illusion of infinite context windows, prompt versioning in teams, and deterministic outputs.
+
+👉 **[Read all my articles and REX on Dev.to](https://dev.to/quentin_merle)**
+
+---
+
+📫 **Let's connect**: [LinkedIn](https://www.linkedin.com/in/quentinmerle/) | [Dev.to](https://dev.to/quentin_merle)
+
+🌲 *Proudly engineered in Beauce, Québec 🇨🇦*
