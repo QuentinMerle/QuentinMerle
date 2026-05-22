@@ -12,7 +12,7 @@ My main focus is on **Local & Edge AI (LLMs & SLMs)**. I build pragmatic, sovere
 
 ### 🚀 What I'm up to
 
-- 🏢 **Founder @ [Vibrisse Studio](https://vibrisse-studio.dev/)**: A hybrid Web & AI agency building sovereign, privacy-first solutions.
+- 🏢 **Founder @ [Vibrisse Studio](https://www.vibrisse-studio.dev/)**: A hybrid Web & AI agency building sovereign, privacy-first solutions.
 - 💻 **Working on [Vibrisse Agent](https://agent.vibrisse-studio.dev/)**: A 100% local, desktop AI agent built with Tauri, Ollama, and LangGraph to regain absolute control over the dev environment.
 - ✍️ **Writing**: Sharing honest, code-backed technical feedback (REX) about Local AI, RAG, and Web architectures on [Dev.to](https://dev.to/quentin_merle).
 
@@ -32,6 +32,7 @@ My main focus is on **Local & Edge AI (LLMs & SLMs)**. I build pragmatic, sovere
 - 🎲 **[GemMaster](https://github.com/QuentinMerle/gemmaster)**: Immersive narrative RPG engine powered by Gemma 4, featuring multimodal vision and dynamic Ambilight.
 - ⚡ **[webllm-vs-windowai](https://github.com/QuentinMerle/webllm-vs-windowai)**: A proof-of-concept exploring Edge AI in the browser for e-commerce.
 - 🎙️ **[web-speech-selector](https://github.com/QuentinMerle/web-speech-selector)**: A practical tool to explore and calibrate the Web Speech API across browsers.
+- ♿ **[a11y-control](https://github.com/QuentinMerle/a11y-control)**: A lightweight, standalone accessibility menu (WCAG 2.1 AA compliant) delivered as a native Web Component. Zero dependencies, zero build.
 
 ---
 
