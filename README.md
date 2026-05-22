@@ -13,7 +13,7 @@ My main focus is on **Local & Edge AI (LLMs & SLMs)**. I build pragmatic, sovere
 ### 🚀 What I'm up to
 
 - 🏢 **Founder @ [Vibrisse Studio](https://www.vibrisse-studio.dev/)**: A hybrid Web & AI agency building sovereign, privacy-first solutions.
-- 💻 **Working on [Vibrisse Agent](https://agent.vibrisse-studio.dev/)**: A 100% local, desktop AI agent built with Tauri, Ollama, and LangGraph to regain absolute control over the dev environment.
+- 💻 **Working on [Vibrisse Agent](https://agent.vibrisse-studio.dev/)**: A high-performance, local-first multi-agent framework. Built with LangGraph, and MCP to act as a sovereign engineering partner and give you absolute control over your environment.
 - ✍️ **Writing**: Sharing honest, code-backed technical feedback (REX) about Local AI, RAG, and Web architectures on [Dev.to](https://dev.to/quentin_merle).
 
 ---
@@ -28,7 +28,7 @@ My main focus is on **Local & Edge AI (LLMs & SLMs)**. I build pragmatic, sovere
 
 ### 🌟 Featured Experiments & Projects
 
-- 🧠 **[Vibrisse Agent](https://github.com/QuentinMerle/vibrisse-agent)**: Sovereign local agent featuring triple-layer RAG, LangGraph orchestration, and an Obsidian Glass UI. *(Discover it on [agent.vibrisse-studio.dev](https://agent.vibrisse-studio.dev/))*
+- 🧠 **[Vibrisse Agent](https://github.com/QuentinMerle/vibrisse-agent)**: A sovereign engineering partner and local-first agentic framework. Features triple-layer RAG, LangGraph orchestration, MCP-native tool use, and an Obsidian Glass UI. *(Discover it on [agent.vibrisse-studio.dev](https://agent.vibrisse-studio.dev/))*
 - 🎲 **[GemMaster](https://github.com/QuentinMerle/gemmaster)**: Immersive narrative RPG engine powered by Gemma 4, featuring multimodal vision and dynamic Ambilight.
 - ⚡ **[webllm-vs-windowai](https://github.com/QuentinMerle/webllm-vs-windowai)**: A proof-of-concept exploring Edge AI in the browser for e-commerce.
 - 🎙️ **[web-speech-selector](https://github.com/QuentinMerle/web-speech-selector)**: A practical tool to explore and calibrate the Web Speech API across browsers.
