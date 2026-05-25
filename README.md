@@ -1,4 +1,4 @@
-#Hi, I'm Quentin Merle 👋
+*Hi, I'm Quentin Merle 👋
 **Senior Web Architect & AI Engineer**
 
 I bridge the gap between modern Web Development and Artificial Intelligence. With 15 years of experience in the web ecosystem (React, fullstack JS), I believe AI doesn't replace software engineering—it extends it.
